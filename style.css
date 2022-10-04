@@ -1,0 +1,54 @@
+body{
+    height: 458px;
+    width: 876px;
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+.bastidor{
+    background: rgba(115, 115, 115, 0.47);
+    width: 100px;
+    height: 170px;
+    flex-direction: column;
+}
+
+p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    color: #fFFFfF;
+    font-size: 15px;
+}
+
+img{
+    height: 89px;
+    width: 68px;
+    left: 87px;
+    top: 81px;
+    margin: 15px;
+}
+
+.bastidor1{
+    background: rgba(115, 115, 115, 0.47);
+    width: 100px;
+    height: 170px;
+    flex-direction: column;
+}
+
+p1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    color: #ffffff;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.tudo{
+    
+}
