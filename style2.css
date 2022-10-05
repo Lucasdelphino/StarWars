@@ -1,0 +1,66 @@
+body{
+    height: 876px;
+    width: 458px;
+    background-color: black;
+    margin: 0 auto;
+}
+
+h1{
+    color: white;
+    margin-left: 130px;
+}
+
+.bastidor{
+    background: rgba(115, 115, 115, 0.47);
+    width: 100px;
+    height: 170px;
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    margin: 15px;
+}
+
+.bastidores1{
+    background: rgba(115, 115, 115, 0.47);
+    width: 100px;
+    height: 170px;
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19px;
+    color: #ffffff;
+    font-size: 15px;
+    margin: 10px;
+    text-align: center;
+}
+
+.tudo{
+   display: flex;
+   justify-content: space-evenly;
+}
+
+.sinop{
+    margin-top: 300px;
+    background: #163888;
+    
+}
+
+h3{
+    color: white;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+a{
+    color: white;
+}
